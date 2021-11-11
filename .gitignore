@@ -1,0 +1,4 @@
+.ipynb_checkpoints/*
+.vscode/*
+data/
+Deep_Learning_Project_1.ipynb
